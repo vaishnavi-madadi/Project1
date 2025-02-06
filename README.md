@@ -30,10 +30,10 @@ Trained multiple machine learning models, including Random Forest Regressor.
 Evaluated models using RMSE and R² scores.
 
 Questions Explored:
-How do stock prices of different companies correlate with each other?
-What are the key indicators that impact stock price movements?
-Can machine learning effectively predict future stock prices?
-Which model performs best in predicting stock trends?
+1. How do stock prices of different companies correlate with each other?
+2. What are the key indicators that impact stock price movements?
+3. Can machine learning effectively predict future stock prices?
+4. Which model performs best in predicting stock trends?
 
 Limitations:
 Stock prices are influenced by external factors like news, earnings reports, and market sentiment, which are not captured in this model.
