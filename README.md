@@ -8,10 +8,10 @@ Stocks Analyzed: NVIDIA (NVDA), Apple (AAPL), Tesla (TSLA), Microsoft (MSFT), Go
 Time Period: 5 years of historical stock price data.
 
 Features Used:
-Closing price
-Lag features (previous days’ closing prices)
-Simple Moving Averages (SMA_7, SMA_30)
-Relative Strength Index (RSI)
+Closing price,
+Lag features (previous days’ closing prices),
+Simple Moving Averages (SMA_7, SMA_30),
+Relative Strength Index (RSI).
 
 Approach Used - 
 Data Collection: Fetched historical stock price data for selected companies.
