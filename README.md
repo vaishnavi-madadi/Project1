@@ -44,8 +44,3 @@ Results:
 The Random Forest Regressor was trained and evaluated for each stock.
 The model performed reasonably well but has limitations in accurately predicting future prices due to market volatility.
 Important indicators for price prediction: Lag Features, SMA, RSI.
-
-Future Improvements:
-Incorporate sentiment analysis on news and social media data.
-Test additional models like LSTMs for time-series forecasting.
-Expand analysis to more stocks and broader market indices.
